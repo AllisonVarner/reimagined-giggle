@@ -16,4 +16,4 @@ You'll use it twice in orientation:
 Add a line below introducing yourself — that edit is your first commit.
 
 - Doc Taco — your instructor. I teach databases and drink too much coffee.
-- Allison - student. ZOIDS. that's the entire update.
+- Allison - student. I'm professionally curious, mentally questionable, and recreationally petting dogs.
